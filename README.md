@@ -15,7 +15,7 @@ I am a full stack developer. My main focus is on the backend. My main stack is b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexandrFirst&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
@@ -23,5 +23,3 @@ I am a full stack developer. My main focus is on the backend. My main stack is b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexandrFirst&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
