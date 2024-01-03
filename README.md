@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack developer. My main focus is on the backend. My main stack is based on .net technologies and relational databases such as SQL Server and Oracle. As part of my work, I have experience in optimising SQL queries using tools such as SQL Profiler and SQL Tuning Advisor. I also have experience with Angular and Aurelia frontend frameworks. As far as experience goes, I usually add and maintain new features such as integrating a payment system like Stripe or protecting a site with Google Captcha. In some of my own projects, I've used the RDP protocol to allow browser clients to interact with desktop applications hosted on a Windows machine server. (I used the A21Connect application for this purpose). I also practised using SignalR and Media Kurrento Server to create a streaming server with a one-to-many conferencing format. Media Kurrento Server was used to set up video recording in addition to streaming.
+I am an experienced full-stack developer with a focus on backend development using .NET technologies. I can create SQL queries, in particular in MSSQL Server, and have extensive practical experience with Azure, AWS. In front-end development, I have a strong background in building applications using the Angular and Aurelia frameworks. Additionaly I have experience in developing games using Unity3D engine
 
 
 ## 🌐 Socials:
